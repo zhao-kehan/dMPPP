@@ -1,0 +1,7 @@
+fileobs        'D:\PPP练习\sdata\ISTA00TUR_R_20171910000_01D_30S_MO.00o'
+filesp3        'D:\PPP练习\sdata\gbm19571.sp3'
+filesp3a       'D:\PPP练习\sdata\gbm19572.sp3'
+filesp3b       'D:\PPP练习\sdata\gbm19570.sp3'
+fileatx        'D:\PPP练习\sdata\igs14_1935.atx'
+fileclk        'D:\PPP练习\sdata\WUM0MGXRAP_20231520000_01D_30S_CLK.CLK'
+filedcb        'D:\PPP练习\sdata\P1C12206_RINEX.DCB'
